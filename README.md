@@ -3,7 +3,9 @@
 ## Pluralsight
 
 1. [Getting Started With Kubernetes - Nigel Poulton](https://app.pluralsight.com/library/courses/kubernetes-getting-started/table-of-contents)
-1. [Getting Started With Kubernetes - Nigel Poulton](https://app.pluralsight.com/library/courses/kubernetes-getting-started/table-of-contents)
+2. [Certified Kubernetes Application Developer (CKAD) Path](https://app.pluralsight.com/paths/certificate/certified-kubernetes-application-developer-ckad)
+3. [Certified Kubernetes Administrator (CKA) Path](https://app.pluralsight.com/paths/certificate/certified-kubernetes-administrator)
+
 
 
 ## Practical labs
